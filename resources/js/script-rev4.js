@@ -51,9 +51,7 @@ $(function() {
   ];
 
   const clickSounds = [
-    //"resources/audio/UwU - Cami.mp3",
-    "resources/audio/UwU - Jodie.mp3",
-    "resources/audio/UwU - Sammi.mp3",
+    "resources/audio/Yoink - Jodie.mp3",
   ]
 
   const staticEntries = [];
