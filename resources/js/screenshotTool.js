@@ -3,7 +3,7 @@ function capture() {
     var elementToCapture = document.getElementById('game');
   
     // Hide the elements you want to exclude from the screenshot
-    var elementsToHide = elementToCapture.querySelectorAll('.refreshButton, .user-count, .the-team, .community, button');
+    var elementsToHide = elementToCapture.querySelectorAll('.community, button');
     elementsToHide.forEach(function(element) {
       element.style.display = 'none';
     });
