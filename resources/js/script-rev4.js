@@ -9,9 +9,8 @@ $(function() {
 
   //Populate
   const entries = [
-    //"Cami says 'Sharing is caring', with feeling",
     "Great 'view'",
-    "Stream dies WITHOUT BRIBES",
+    "Stream dies",
     "Food-food party",
     "Any of the ladies say 'UwU'",
     "Rude palian",
@@ -24,7 +23,6 @@ $(function() {
     "Jodie's tool downgrades",
     "Game breaks for Jodie",
     "Visual glitch",
-    //"Cami says 'MOIST', with feeling",
     "New follower",
     "Get raided",
     "New sub, not gifted",
@@ -34,10 +32,7 @@ $(function() {
     "Get bits",
     "Filling 'holes'",
     "5 gifted subs",
-    //"Fall damage off a cliff",
-    //"Cami announces an air break",
     "Jodie says 'I like a big one'",
-    //"Crowned victory royale",
     "Jodie says 'Core is inside me'",
     "Bush innuendo",
     "Apple core innuendo",
