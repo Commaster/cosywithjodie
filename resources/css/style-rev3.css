@@ -25,10 +25,6 @@ body {
   overflow: hidden;
 }
 
-.user-count {
-  animation: typing 0.5s steps(20, end);
-}
-
 nav {
   display: flex;
   justify-content: center;
