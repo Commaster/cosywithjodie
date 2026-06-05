@@ -17,6 +17,7 @@ $(function() {
     "Burnt food",
     "Triple in a hole [fishing]",
     "Jodie loses a starred fish",
+    "Jodie acquires a starred item",
     "Chat says 'JODIE EAT' when applicable",
     "Chat says 'FOCUS CHECK' when applicable",
     "Cake party",
@@ -49,7 +50,15 @@ $(function() {
     "Jodie complains about controls",
     "Outfit change",
     "Jodie complains about the weather",
-    "Jodie misclicks the travel board"
+    "Jodie misclicks the travel board",
+    "Jodie gets a plushie",
+    "Jodie screams 'Kitty!'",
+    "'Bloobs!'",
+    "Jodie complains about 'Baby Shark'",
+    "CHEAPVIEWERS spammer in chat",
+    "Jodie drowns from excess hydrating",
+    "Pixel vomit from fireworks",
+    "Jodie is squirreling"
   ];
 
   const clickSounds = [
