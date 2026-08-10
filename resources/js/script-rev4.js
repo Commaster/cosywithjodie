@@ -52,7 +52,6 @@ $(function() {
     "Jodie complains about the weather",
     "Jodie misclicks the travel board",
     "Jodie gets a plushie",
-    "Jodie screams 'Kitty!'",
     "'Bloobs!'",
     "Jodie complains about 'Baby Shark'",
     "CHEAPVIEWERS spammer in chat",
